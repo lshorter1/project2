@@ -1,0 +1,50 @@
+body {
+	background-color:#E9EFA3;
+}
+
+h2 { 
+    color: #000000;
+	text-align: center;
+	font-size:60px;
+    background: #BDA340
+}
+
+
+h3 {
+	text-align: right;
+	font-size: 20px;
+} 
+
+img1 {
+    float: right;
+	
+}
+
+h1 {
+	text-align: left;
+} 
+
+p  { 
+  font-family:Milkshake;
+  font-size:24px;
+  text-align: center;
+  color:#74652C;
+}
+
+img {
+	text-align:right;
+} 
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4px;
+}
+
+.column {
+  flex: 15%;
+  max-width: 25%;
+  padding:  4px;
+}
+ 
+ 
