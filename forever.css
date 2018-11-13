@@ -38,13 +38,12 @@ img {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 4px;
+  padding: 0 4px;
 }
 
 .column {
   flex: 15%;
   max-width: 25%;
-  padding:  4px;
+  padding: 0 4px;
 }
- 
  
